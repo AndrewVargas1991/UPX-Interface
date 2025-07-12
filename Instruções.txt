@@ -1,0 +1,18 @@
+Instruções de uso do programa UPX Interface - Por Andrew Vargas
+
+Esse programa é uma interface gráfica para o compressor de arquivos UPX,
+que pode ser baixado no site https://upx.github.io caso desejar, lembrando
+que nas pasta Debug e Release já existem duas cópias da versão 5.0.1, que é
+a mais atual dele para arquitetura Windows 32 bits (também funciona em 64 bits).
+
+OBS: Para comprimir arquivos é necessário que o arquivo upx.exe esteja na mesma
+pasta que o executável principal deste programa (o UPX Interface), ou que ele
+esteja cadastrado nas variáveis de ambiente da máquina onde você o executará.
+
+1- Após abrir o programa, clique em "Comprimir arquivo", escolha o arquivo executável (ou dll) que desejar comprimir e clique em "Abrir". Aparecerá uma
+mensagem na tela emitindo um aviso, basta clicar "OK" e esperar.
+
+2- Para descomprimir um arquivo, clique em "Descomprimir arquivo", escolha o arquivo executável (ou dll) que desejar descomprimir e clique em "Abrir". Aparecerá uma mensagem na tela emitindo um aviso, basta clicar "OK" e esperar.
+
+OBS: A compressão de arquivos executáveis e dlls não funcionam em todos os arquivos.
+
