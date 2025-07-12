@@ -2,4 +2,4 @@
 
 - Esse software é uma implementação de interface gráfica para o compressor de arquivos UPX.
 
-![Screenshot](https://github.com/AndrewVargas1991/UPX Interface/Tela.jpg)
+![Screenshot](https://github.com/AndrewVargas1991/UPX-Interface/blob/main/Tela.jpg)
