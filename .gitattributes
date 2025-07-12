@@ -1,0 +1,7 @@
+bash
+*.pas linguist-language=Pascal
+*.pp linguist-language=Pascal
+*.inc linguist-language=Pascal
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+*.h linguist-language=C++
